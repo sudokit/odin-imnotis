@@ -1,5 +1,5 @@
 # odin-imnotis
-A notification lib for imgui
+A notification lib for dear imgui
 Example:
 ```odin
 package main
